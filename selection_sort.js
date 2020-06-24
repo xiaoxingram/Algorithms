@@ -27,3 +27,14 @@ function sortedArray(arr){
   }
   return sortedArray;
 }
+
+/*
+Chapter 2 recap
+- Your computer's memory is like a giant set of drawers
+- When you want to store multiple elements, use an array or a list
+- With an array, all your elements are stored right next tot each other
+- With a list, elements are strewn all over,  one element stores the address of the next one
+- Arrays allow fast reads
+- Linked list allow fast inserts and deletes
+- All elements in the array should be the same type(all ints, all doubles, and so on)
+*/
